@@ -4,12 +4,25 @@
 
 ✨muitas vezes codando, as vezes existindo✨</br>
 
+##
+  
 
-
+</br>
 <div>
-  <img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=default&bg_color=DEG,380B61,5F04B4,D0A9F5&border_radius=15&custom_title=Most Used&title_color=FFFF00&border_color=000000"/>
-</div></br>
+  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=default&theme=shades-of-purple&border_radius=15&custom_title=Most Used&title_color=FFFF00"/>
+</div></br></br>
+  
 
+
+
+  <div>
+    <label>Projeto atual </label>
+    <a href="" > 
+      <img align="center" src="https://img.shields.io/badge/petsOn-❤️-orange">
+    </a>
+  </div></br>
+  
+##
 
 Quer me conhecer mais? Me segue lá!
 
