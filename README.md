@@ -1,16 +1,27 @@
-### Hi there 👋
+### Olá! 👋
 
-<!--
-**CassiaDM/cassiadm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+✨muitas vezes codando, as vezes existindo✨</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<div>
+  <img height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=default&bg_color=DEG,380B61,5F04B4,D0A9F5&border_radius=15&custom_title=Most Used&title_color=FFFF00&border_color=000000"/>
+</div></br>
+
+
+Quer me conhecer mais? Me segue lá!
+
+<div>
+  <a href="https://www.linkedin.com/in/cassia-dmartins/" target="_blank"> 
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.tinkercad.com/users/1YvaGkrMYDf-cassiadmartins?category=circuits&sort=likes&view_mode=default" target="_blank"> 
+    <img align="center" src="https://img.shields.io/badge/Tinkecard-4EA94B?style=for-the-badge&logoColor=white" target="_blank">
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561199093523336/" target="blank"> 
+    <img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
+  </a>
+</div>
+
