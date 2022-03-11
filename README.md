@@ -2,14 +2,12 @@
 
 </br>
 
-✨muitas vezes codando, as vezes existindo✨</br>
-
 ##
   
 
 </br>
 <div>
-  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiadm&layout=default&theme=shades-of-purple&border_radius=15&custom_title=Most Used Languages"/>
+  <img height="80" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiadm&layout=default&theme=shades-of-purple&border_radius=15&custom_title=Most Used Languages"/>
 </div></br></br>
   
 
