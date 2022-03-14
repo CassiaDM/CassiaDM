@@ -15,7 +15,7 @@
 
   <div>
     <label>Projeto atual </label>
-    <a href="https://www.canva.com/design/DAEn49FT01M/PrF6b-_W9h8LUR4y0uYjvg/view?website#1" > 
+    <a href="https://www.canva.com/design/DAEn49FT01M/PrF6b-_W9h8LUR4y0uYjvg/view?website#1:a-rede-social-que-faltava" > 
       <img align="center" src="https://img.shields.io/badge/petsOn-❤️-orange">
     </a>
   </div></br>
