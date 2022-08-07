@@ -7,7 +7,7 @@
 
 </br>
 <div>
-  <img height="80" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassiaDM&count_private=true&layout=default&theme=shades-of-purple&border_radius=15&custom_title=Most Used Languages"/>
+  <img width="313" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassiaDM&count_private=true&layout=compact&theme=shades-of-purple&border_radius=15&custom_title=Most Used Languages"/>
 </div></br></br>
   
 
